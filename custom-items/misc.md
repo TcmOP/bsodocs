@@ -10,7 +10,7 @@ Elder logs can be cut at level 105 Woodcutting, they give the best XP/hr, and ca
 
 **Deathtouched Dart**
 
-Deathtouched Darts can be obtained from [Grandmaster Caskets](https://bso-wiki.oldschool.gg/custom-items/grandmaster-clues), and are used to cause any one `=k` trip to return instantly.
+Deathtouched Darts can be obtained from [Grandmaster Caskets](https://bso-wiki.oldschool.gg/custom-items/grandmaster-clues), and are used to cause any one `/kill` trip to return instantly.
 
 **Ancient rejuvenation pool**
 
@@ -18,6 +18,6 @@ The ancient rejuvenation pool can be built in your PoH ontop of an Ornate rejuve
 
 #### Heat res. potions
 
-1. Create Athelas paste from crushing the Athelas herb. `=mix athelas paste`
-2. Craft Heat res. vials with molten glass and athelas paste. `=craft heat res. vial`
-3. Mix a Super antifire, 4-dose brew/restore into the heat res. vial. E.g. `=mix heat res. brew`.
+1. Create Athelas paste from crushing the Athelas herb, this can not be done by Wesley. `/mix name:Athelas paste`
+2. Craft Heat res. vials with molten glass and athelas paste. `/craft name:Heat res. vial`
+3. Mix a Super antifire, 4-dose brew/restore into the heat res. vial. E.g. `/mix name:Heat res. brew`.

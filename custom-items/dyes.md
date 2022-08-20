@@ -4,7 +4,7 @@ description: Dyes are custom items that cosmetically enhance various items
 
 # Dyes
 
-Dyes can be used on certain items by using the `=create` command. This process is irreversible, permanently turns items untradeable, and removes the dye.
+Dyes can be used on certain items by using the `/create` command. This process is irreversible, permanently turns items untradeable, and removes the dye.
 
 Ice, blood, shadow, and 3a dyes can only be obtained from grandmaster caskets. \
 Monkey dyes can be obtained from catching chimplings, encountering special monkeys during [Mad Marimbo's Monkey Rumble](../minigames/mad-marimbos-monkey-rumble/), or by buying them from the minigame's shop. \

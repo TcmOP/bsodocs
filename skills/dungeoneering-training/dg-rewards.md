@@ -15,7 +15,7 @@
 | Scroll of longevity\*   | 800,000    | 2x increase to slayer task quantities                                               |
 | Scroll of the hunt\*    | 800,000    | Gives 2x higher chances of impling spawns, and +4 higher limit on birdhouses (4->8) |
 
-\[\*]Important: Only the scroll of farming, longevity and hunt are currently tradeable/useable. To enable these scrolls you must `=use` them, you can only do this once. All other scrolls work passively while stored in the bank.
+\[\*]Important: Only the scroll of farming, longevity and hunt are currently tradeable/useable. To enable these scrolls you must `/minion use item:[Scroll name]`, you can only do this once. All other scrolls work passively while stored in the bank.
 
 ### Buyable Gear
 
@@ -44,10 +44,15 @@ Additionally, with a **Chaotic Remnant** (500,000 tokens), the three BiS amulets
 
 ### Gorajan Armor
 
-**Gorajan Armor** is made by using Gorajan Shards with Nex Armor. Each piece of armor requires 2 Gorajan Shards to upgrade and will become untradeable. Stats will remain the same as the original Nex Armor but give additional boosts. They give 2x XP when used to train their respective style (ex. Gorajan Occult Outfit gives 2x Magic XP) and they also give a boost to Dungeoneering XP.
+**Gorajan Armor** is made by using Gorajan Shards with Nex Armor. Each piece of armor requires 2 Gorajan Shards to upgrade and will become untradeable. Stats will remain the same as the original Nex Armor but give additional boosts:
+
+* 2x XP when used to train their respective style (ex. Gorajan Occult Outfit gives 2x Magic XP)
+* Boost to Dungeoneering XP
+* Various boosts when using their respective style while on `/kill` trips
+
+#### Set creation
 
 * Torva + Gorajan Shards = **Gorajan Warrior Outfit**
-  * Gives boost at King Goldemar
 * Virtus + Gorajan Shards = **Gorajan Occult Outfit**
 * Pernix + Gorajan Shards = **Gorajan Archer Outfit**
 

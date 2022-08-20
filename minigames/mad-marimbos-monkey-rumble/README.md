@@ -4,10 +4,10 @@ Monkey Rumble is a minigame where you wear a greegree to turn into a monkey, and
 
 ### Quickstart Guide
 
-1. ` /buy`` `` `**`name:`**`M'speak amulet`
-2. ` /gear equip`` `` `**`gear_setup:`**` Misc`` `` `**`item:`**`M'speak amulet`
-3. ` /buy`` `` `**`name:`**`Beginner rumble greegree`
-4. ` /gear equip`` `` `**`gear_setup:`**` Misc`` `` `**`item:`**`Beginner rumble greegree`
+1. `/buy`` `**`name:`**`M'speak amulet`
+2. `/gear equip`` `**`gear_setup:`**`Misc`` `**`item:`**`M'speak amulet`
+3. `/buy`` `**`name:`**`Beginner rumble greegree`
+4. `/gear equip`` `**`gear_setup:`**`Misc`` `**`item:`**`Beginner rumble greegree`
 5. Make sure you have some fruit, for your monkey-form to eat!
 6. `/bsominigames monkey_rumble start`
 
@@ -17,7 +17,7 @@ Monkey Rumble is a minigame where you wear a greegree to turn into a monkey, and
 * When doing fights, you will fight random monkeys, there are over 20,000+ possible monkeys you can fight. At a rare chance, you'll fight a special monkey.
 * Special monkeys have purple names and different appearances, and _they_ are the ones who give you the unique rewards after fighting them.
 * You also earn Rumble tokens, the reward currency of this minigame, which you can spend on some rewards, if you have all the rewards, you can spend them on Monkey crates.
-* Monkey rumble has a collection log, `=cl mr`
+* Monkey rumble has a collection log, `/cl name:Mad Marimbo's Monkey Rumble`
 
 ### **Boosts**
 
@@ -49,14 +49,14 @@ Monkey Rumble is a minigame where you wear a greegree to turn into a monkey, and
 **Marimbo statue**
 
 * A statue you can place in your PoH, as a garden decoration. It has a chance of being dropped by purple monkeys after obtaining a tier 5 rumble greegree.
-* You can place it in your PoH using /` poh build`` `` `**`name:`**`Marimbo statue`
+* You can place it in your PoH using /`poh build`` `**`name:`**`Marimbo statue`
 
 **Banana enchantment scroll**
 
 * Bought from the reward shop or obtained from chimplings.
 * Allows you to enchant bananas into magic bananas, cannot cast this spell without it.
-* ` /minion use`` `` `**`item:`**`Banana enchantment scroll`
-* ` /activities enchant`` `` `**`name:`**`Banana`
+* `/minion use`` `**`item:`**`Banana enchantment scroll`
+* `/activities enchant`` `**`name:`**`Banana`
 
 **Chimplings**
 
