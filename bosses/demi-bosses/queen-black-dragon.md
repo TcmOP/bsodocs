@@ -10,7 +10,7 @@ The Queen Black Dragon is a Demi-Boss that drops several mid game items and mid 
 * 85 Ranged
 * Dragonfire shield OR Dragonfire ward
 
-### Boosts
+## Boosts
 
 * Ancient Rejuvenation Pool - 6%
 * Royal crossbow - 8%
@@ -21,7 +21,7 @@ The Queen Black Dragon is a Demi-Boss that drops several mid game items and mid 
 * Ranged Gorajan - 10%
 * Ranged Master Cape (when equipped using the ranged style) - 15%
 
-### Loot
+## Loot
 
 * **Royal dragonhide:** Used to craft Royal Dragonhide, providing the best xp rates
 * **Royal dragon bones:** Equal in experience rates to Abyssal Dragon Bones

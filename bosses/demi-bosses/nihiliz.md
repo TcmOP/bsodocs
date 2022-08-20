@@ -12,7 +12,7 @@ Nihiliz, aka "mini-nex" is a Zaryte, minion of Nex, who holds the key to the myt
 * 105 Magic
 * 99 Defence
 
-### Boosts
+## Boosts
 
 * Fancy/Ornate/Ancient Rejuvenation Pool - 5/10/15%
 * Zaryte bow/crossbow - 10/15%
@@ -26,7 +26,7 @@ Nihiliz, aka "mini-nex" is a Zaryte, minion of Nex, who holds the key to the myt
 * Full Melee Gorajan - 10%
 * Attack Master Cape - 15%
 
-### Loot
+## Loot
 
 * **Nihil shard:** Used to create Zaryte crossbow, can also be crushed into Nihil dust which is a secondary for the Ancient brew (3) potion
 * **Nihil horn:** Combined with an Armadyl crossbow, 250 Nihil shard to make a Zaryte crossbow with `/create`**`item:`**`Zaryte crossbow`
