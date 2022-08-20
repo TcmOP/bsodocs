@@ -1,0 +1,27 @@
+# Hunter
+
+### Custom Content and Boosts
+
+* Elder Birdhouses - can be set at level 99 Hunter, giving random seeds and a chance at [Grandmaster Clues](https://bso-wiki.oldschool.gg/custom-items/grandmaster-clues)
+* [Scroll of the Hunt](dungeoneering-training/dg-rewards.md#buyable-boosts-utility) - +4 Birdhouses
+* Sand Geckos - can be hunted at 120 Hunter, 99 Agility, and 99 Fishing, consuming 1 simple kibble per 8 geckos. They reward various mystery boxes, and have a chance to give the [Sandy](../custom-items/pets.md#resource-gathering-and-loot-affecting-pets) pet
+* Eastern Ferret - can be hunted at 96 Hunter, consuming 1 delicious kibble per 2 ferrets. Chance at [Zippy](../custom-items/pets.md#miscellaneous-pets) pet
+* Chimpchompas - Requires 99 hunter, any MR greegree, and 1 banana per catch as bait
+* [Sandy](../custom-items/pets.md#miscellaneous-pets) - 3x hunter loot (2x sand gecko loot w/ Hunter Master Cape)
+* Hunter Master Cape - 2x Hunter speed, +4 birdhouses, 2x loot from Sand Geckos with Sandy equipped, 2x implings
+
+### Optimal Gear Setup
+
+Hunter master cape, Sandy
+
+Wildy setup - Royal d'hide body and chaps (cost effective)
+
+### Methods
+
+Xp rates without Hunter Master Cape
+
+| Method           | Xp / Hr |   |
+| ---------------- | ------- | - |
+| Eastern Ferret   | 140k    |   |
+| Sand Gecko       | 550k    |   |
+| Black Chinchompa | 1.5m    |   |
