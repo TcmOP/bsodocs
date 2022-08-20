@@ -36,11 +36,11 @@ The following gear can be bought with tokens:
 
 None of the above have any perks or bonuses besides their respective stats except for the **Amulet of Zealots** which provides an extra 5% boost to the **Dwarven Blessing** or 10% if killing a mob in the Wilderness.
 
-Additionally, with a **Chaotic Remnant** (500,000 tokens), the three BiS amulets can be created:
+Additionally, with a **Chaotic Remnant** (500,000 tokens), the three BiS neck items can be created with `/create item:[Item Name]`. These are tradable and require 99 Crafting and 99 Dungeoneering to create.
 
-* Amulet of Torture + Chaotic Remnant = **Brawler's Hook Necklace**
-* Necklace of Anguish + Chaotic Remnant = **Farsight Snapshot Necklace**
-* Occult Necklace + Chaotic Remnant = **Arcane Blast Necklace**
+* Amulet of Torture + Chaotic Remnant = **Brawler's Hook Necklace - Requires 99 Dungeoneering and Defence.**
+* Necklace of Anguish + Chaotic Remnant = **Farsight Snapshot Necklace - Requires 99 Dungeoneering, Defence and Ranged.**
+* Occult Necklace + Chaotic Remnant = **Arcane Blast Necklace - Requires 99 Dungeoneering, Defence and Magic.**
 
 ### Gorajan Armor
 
@@ -52,15 +52,17 @@ Additionally, with a **Chaotic Remnant** (500,000 tokens), the three BiS amulets
 
 #### Set creation
 
-* Torva + Gorajan Shards = **Gorajan Warrior Outfit**
-* Virtus + Gorajan Shards = **Gorajan Occult Outfit**
-* Pernix + Gorajan Shards = **Gorajan Archer Outfit**
+Gorajan items can be made with `/smith name: [Item name]`. You can create boots, gloves, helmet, top, legs for each set
+
+* Torva + Gorajan Shards = **Gorajan Warrior Outfit (Melee)**
+* Virtus + Gorajan Shards = **Gorajan Occult Outfit (Magic)**
+* Pernix + Gorajan Shards = **Gorajan Archer Outfit (Ranged)**
 
 ### Miscellaneous Buyables
 
 | Item                    | Token Cost | Use                                                        |
 | ----------------------- | ---------- | ---------------------------------------------------------- |
-| Herbicide               | 400,000    |                                                            |
+| Herbicide               | 400,000    | None                                                       |
 | Frosty                  | 2,000,000  | None                                                       |
 | Chaotic Remnant         | 500,000    | Secondary for BiS necklace upgrade                         |
 | Daemonheim Agility Pass | 1,000,000  | Unlocks Daemonheim agility course                          |

@@ -171,7 +171,7 @@ There are 4 expert capes that you can buy once you have bought all required mast
 
 ### Mycelium
 
-**Mycelium web armour** is a low level magic armour that can be upgraded to Ganodermic or Grifolic equipment using Grifolic or Ganodermic flakes.
+**Mycelium web armor** is a low level magic armor that can be upgraded to Ganodermic or Grifolic equipment using Grifolic or Ganodermic flakes.
 
 ![](../.gitbook/assets/mycelium.png)
 
@@ -183,7 +183,7 @@ There are 4 expert capes that you can buy once you have bought all required mast
 
 ### Ganodermic
 
-**Ganodermic equipment** is a mid-high level set of magical equipment created by upgrading Mycelium Web armour with Ganodermic Flakes.
+**Ganodermic equipment** is a mid-high level set of magical equipment created by upgrading Mycelium Web armor with Ganodermic Flakes.
 
 ![](../.gitbook/assets/ganodermic.png)
 
